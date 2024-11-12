@@ -15,11 +15,15 @@ var isBalanced = function (root) {
 
   const DFS = (node) => {
     if (node === null) return 0;
+
     const left = DFS(node.left);
+    if (left === -1) return -1;
     const right = DFS(node.right);
-    if (Math.abs(right - left) > 1) return Infinity;
+    if (right === -1) return -1;
+
+    if (Math.abs(right - left) > 1) return -1;
     return Math.max(left, right) + 1;
   };
 
-  return DFS(root) !== Infinity ? true : false;
+  return DFS(root) !== -1;
 };
