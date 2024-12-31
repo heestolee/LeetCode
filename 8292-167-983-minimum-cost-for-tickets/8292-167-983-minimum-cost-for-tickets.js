@@ -1,6 +1,6 @@
 /**
- * @param {number[]} days
- * @param {number[]} costs
+ * @param {number[]} travelDays
+ * @param {number[]} ticketCosts
  * @return {number}
  */
 var mincostTickets = function(travelDays, ticketCosts) {
@@ -11,20 +11,24 @@ var mincostTickets = function(travelDays, ticketCosts) {
     minCostUpToDay[0] = Math.min(ticketCosts[0], ticketCosts[1], ticketCosts[2]);
 
     for (let i = 1; i < numberOfTravelDays; i++) {
-        minCostUpToDay[i] = Infinity;
+        let currentMinCost = minCostUpToDay[i - 1] + ticketCosts[0];
 
         for (let j = 0; j < durations.length; j++) {
-            let previousDay = travelDays[i] - durations[j];
+            const previousDay = travelDays[i] - durations[j];
             let k = i;
 
             while (k >= 0 && travelDays[k] > previousDay) {
                 k--;
             }
-            minCostUpToDay[i] = Math.min(
-                minCostUpToDay[i],
-                (k >= 0 ? minCostUpToDay[k] : 0) + ticketCosts[j]
-            );
+
+            if (k >= 0) {
+                currentMinCost = Math.min(currentMinCost, minCostUpToDay[k] + ticketCosts[j]);
+            } else {
+                currentMinCost = Math.min(currentMinCost, ticketCosts[j]);
+            }
         }
+
+        minCostUpToDay[i] = currentMinCost;
     }
 
     return minCostUpToDay[numberOfTravelDays - 1];
