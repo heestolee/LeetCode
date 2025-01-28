@@ -34,7 +34,9 @@ var findMaxFish = function(grid) {
 
   for (let row = 0; row < rowCount; row++) {
     for (let col = 0; col < colCount; col++) {
-      if (grid[row][col] > 0) {
+	    const isLand = grid[row][col] === 0;
+
+      if (!isLand) {
         const fishCaughtFromThisCell = dfs(row, col);
         maxFishCaught = Math.max(maxFishCaught, fishCaughtFromThisCell);
       }
