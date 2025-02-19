@@ -4,20 +4,28 @@
  * @return {string}
  */
 var getHappyString = function(n, k) {
-  const happyStrings = [];
+  let count = 0;
+  let kthHappyString = "";
   const letters = ["a", "b", "c"];
 
   function generateHappyString(current) {
     if (current.length === n) {
-      happyStrings.push(current);
+      count++;
+      const isKthString = count === k;
+
+      if (isKthString) {
+        kthHappyString = current;
+      }
       return;
     }
+
+    const isKthStringFound = kthHappyString !== "";
 
     for (const letter of letters) {
       const isFirstLetter = current.length === 0;
       const isDifferentFromLastLetter = current[current.length - 1] !== letter;
 
-      if (isFirstLetter || isDifferentFromLastLetter) {
+      if ((isFirstLetter || isDifferentFromLastLetter) && !isKthStringFound) {
         generateHappyString(current + letter);
       }
     }
@@ -25,6 +33,5 @@ var getHappyString = function(n, k) {
 
   generateHappyString("");
 
-  const hasKthString = happyStrings.length >= k;
-  return hasKthString ? happyStrings[k - 1] : "";
+  return kthHappyString;
 };
