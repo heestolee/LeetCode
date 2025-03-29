@@ -19,7 +19,7 @@ var generateParenthesis = function(n) {
       backtrack(current + ')', open, close + 1);
     }
   };
-
   backtrack('', 0, 0);
+
   return result;
 };
