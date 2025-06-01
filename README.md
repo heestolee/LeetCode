@@ -24,4 +24,8 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/heestolee/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/heestolee/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
