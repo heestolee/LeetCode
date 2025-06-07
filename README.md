@@ -28,4 +28,24 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/heestolee/LeetCode/tree/master/0009-palindrome-number) |
+## Hash Table
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/heestolee/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## String
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/heestolee/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Stack
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/heestolee/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Greedy
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/heestolee/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/heestolee/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
