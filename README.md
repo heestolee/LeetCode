@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/heestolee/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/heestolee/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/heestolee/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/heestolee/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
