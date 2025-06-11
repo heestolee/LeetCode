@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/heestolee/LeetCode/tree/master/0009-palindrome-number) |
+| [3201-distribute-candies-among-children-ii](https://github.com/heestolee/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,12 @@
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/heestolee/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/heestolee/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/heestolee/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
