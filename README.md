@@ -68,4 +68,8 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/heestolee/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+## Array
+|  |
+| ------- |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/heestolee/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 <!---LeetCode Topics End-->
