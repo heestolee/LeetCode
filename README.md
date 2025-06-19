@@ -47,6 +47,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/heestolee/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/heestolee/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/heestolee/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
@@ -73,10 +74,12 @@
 |  |
 | ------- |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/heestolee/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/heestolee/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/heestolee/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/heestolee/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Sorting
 |  |
 | ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/heestolee/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/heestolee/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
