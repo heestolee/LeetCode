@@ -43,5 +43,6 @@ var isSymmetric = function(root) {
 
   if (!root) return true;
 
-  return isMirrorIterative(root.left, root.right);
+  // isMirrorRecursive 대신 isMirrorIterative를 넣어도 통과
+  return isMirrorRecursive(root.left, root.right);
 };
