@@ -95,6 +95,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/heestolee/LeetCode/tree/master/0136-single-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/heestolee/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/heestolee/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/heestolee/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -141,6 +142,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/heestolee/LeetCode/tree/master/0136-single-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/heestolee/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
