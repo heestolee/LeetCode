@@ -19,6 +19,7 @@
 | [0101-symmetric-tree](https://github.com/heestolee/LeetCode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/heestolee/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/heestolee/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/heestolee/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/heestolee/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/heestolee/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/heestolee/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/heestolee/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/heestolee/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/heestolee/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Counting
 |  |
 | ------- |
@@ -106,6 +109,7 @@
 | ------- |
 | [0136-single-number](https://github.com/heestolee/LeetCode/tree/master/0136-single-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/heestolee/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/heestolee/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/heestolee/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/heestolee/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/heestolee/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
