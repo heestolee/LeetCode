@@ -44,6 +44,7 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/heestolee/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/heestolee/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/heestolee/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/heestolee/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/heestolee/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/heestolee/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -116,6 +117,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/heestolee/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/heestolee/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/heestolee/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1813-maximum-erasure-value](https://github.com/heestolee/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/heestolee/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/heestolee/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/heestolee/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/heestolee/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/heestolee/LeetCode/tree/master/1813-maximum-erasure-value) |
 ## Bit Manipulation
 |  |
 | ------- |
