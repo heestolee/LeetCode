@@ -110,6 +110,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/heestolee/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/heestolee/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/heestolee/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Array
@@ -123,6 +124,7 @@
 | [1813-maximum-erasure-value](https://github.com/heestolee/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/heestolee/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/heestolee/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/heestolee/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/heestolee/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/heestolee/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/heestolee/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/heestolee/LeetCode/tree/master/0136-single-number) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/heestolee/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/heestolee/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -190,4 +193,8 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/heestolee/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/heestolee/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
