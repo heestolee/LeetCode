@@ -131,6 +131,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/heestolee/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/heestolee/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/heestolee/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/heestolee/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/heestolee/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/heestolee/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/heestolee/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0136-single-number](https://github.com/heestolee/LeetCode/tree/master/0136-single-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/heestolee/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/heestolee/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/heestolee/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/heestolee/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/heestolee/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
