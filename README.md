@@ -118,6 +118,7 @@
 | ------- |
 | [0136-single-number](https://github.com/heestolee/LeetCode/tree/master/0136-single-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/heestolee/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/heestolee/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/heestolee/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/heestolee/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/heestolee/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -160,6 +161,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/heestolee/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/heestolee/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/heestolee/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/heestolee/LeetCode/tree/master/0136-single-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/heestolee/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/heestolee/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/heestolee/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/heestolee/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
