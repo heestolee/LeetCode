@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/heestolee/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/heestolee/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/heestolee/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/heestolee/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/heestolee/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -120,6 +121,7 @@
 | [0136-single-number](https://github.com/heestolee/LeetCode/tree/master/0136-single-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/heestolee/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/heestolee/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/heestolee/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/heestolee/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/heestolee/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/heestolee/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/heestolee/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/heestolee/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/heestolee/LeetCode/tree/master/1813-maximum-erasure-value) |
 ## Bit Manipulation
 |  |
