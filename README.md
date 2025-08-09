@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/heestolee/LeetCode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/heestolee/LeetCode/tree/master/0231-power-of-two) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/heestolee/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/heestolee/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/heestolee/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/heestolee/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/heestolee/LeetCode/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/heestolee/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/heestolee/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/heestolee/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -197,6 +199,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/heestolee/LeetCode/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/heestolee/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
