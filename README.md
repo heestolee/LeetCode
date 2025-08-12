@@ -178,6 +178,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/heestolee/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/heestolee/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/heestolee/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/heestolee/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Memoization
 |  |
 | ------- |
