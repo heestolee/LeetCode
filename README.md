@@ -36,6 +36,7 @@
 | [0009-palindrome-number](https://github.com/heestolee/LeetCode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/heestolee/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/heestolee/LeetCode/tree/master/0326-power-of-three) |
+| [0867-new-21-game](https://github.com/heestolee/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/heestolee/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/heestolee/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/heestolee/LeetCode/tree/master/1448-maximum-69-number) |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/heestolee/LeetCode/tree/master/0118-pascals-triangle) |
+| [0867-new-21-game](https://github.com/heestolee/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/heestolee/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/heestolee/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/heestolee/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/heestolee/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/heestolee/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/heestolee/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/heestolee/LeetCode/tree/master/1813-maximum-erasure-value) |
 ## Bit Manipulation
@@ -238,4 +241,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/heestolee/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/heestolee/LeetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
