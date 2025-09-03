@@ -132,6 +132,7 @@
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/heestolee/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0118-pascals-triangle](https://github.com/heestolee/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/heestolee/LeetCode/tree/master/0136-single-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/heestolee/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -242,6 +243,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/heestolee/LeetCode/tree/master/0040-combination-sum-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/heestolee/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
 |  |
